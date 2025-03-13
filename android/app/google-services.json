@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "806722239170",
+    "project_id": "mascotas-ce80e",
+    "storage_bucket": "mascotas-ce80e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806722239170:android:50982ff26185a6c108d95b",
+        "android_client_info": {
+          "package_name": "com.example.fire_crud_5a25"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwM32CvqOywEF6F1k_McZ0Q_laDCXqlRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
