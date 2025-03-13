@@ -21,7 +21,6 @@ class PetModel {
   //Cuando se inserta una mascota desde la app
   Map<String, dynamic> toMap() {
     return {
-      'id': id,
       'nombre': nombre,
       'tipo': tipo,
       'raza': raza,
