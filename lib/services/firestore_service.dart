@@ -27,4 +27,8 @@ class FirestoreService {
   Future<void> deletePet(String collection, String docId) {
     return _firestore.collection(collection).doc(docId).delete();
   }
+
+  Future<void> addPet(String collection, Map<String, dynamic> data) {
+    return _firestore.collection(collection).add(data);
+  }
 }
